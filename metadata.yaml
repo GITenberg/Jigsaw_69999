@@ -1,0 +1,30 @@
+_repo: Jigsaw_69999
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Connell
+    gutenberg_agent_id: '33964'
+    url: http://www.gutenberg.org/2009/agents/33964
+creator:
+  author:
+    agent_name: McMorrow, Tom
+    gutenberg_agent_id: '55534'
+    url: http://www.gutenberg.org/2009/agents/55534
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '69999'
+language: en
+pgterms:marc905: 20220526130838mcmorrow
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jigsaw
+url: http://www.gutenberg.org/ebooks/69999
