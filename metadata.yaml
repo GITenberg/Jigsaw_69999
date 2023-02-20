@@ -5,12 +5,17 @@ contributor:
     agent_name: Connell
     gutenberg_agent_id: '33964'
     url: http://www.gutenberg.org/2009/agents/33964
+covers:
+- cover_type: archival
+  image_path: 69999-h/images/cover.jpg
 creator:
   author:
     agent_name: McMorrow, Tom
     gutenberg_agent_id: '55534'
     url: http://www.gutenberg.org/2009/agents/55534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69999#Jigsaw
 gutenberg_issued: '2023-02-10'
 identifiers:
   gutenberg: '69999'
